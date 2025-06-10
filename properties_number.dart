@@ -13,7 +13,7 @@ void main()
   print("hash of string = ${name.hashCode}");
   // isFinite
   print("check finite = ${a.isFinite}");
-  print("check finite = ${i.isFinite}");
+
   // isInfinite
   print("check infinite = ${a.isInfinite}");
   // isNaN
