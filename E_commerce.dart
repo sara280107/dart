@@ -1,4 +1,4 @@
-/void main() {
+void main() {
   String productId = 'A101';
   double productPrice = 100.0;
   int stock = 100;

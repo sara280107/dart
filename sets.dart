@@ -4,20 +4,20 @@ void main()
    Set<String> Authors1={'Aghata Christe','Robert Greene'};
   //add 
    Authors.add('Dale Carnegie');
-   print(Authors);
+   print("$Authors");
   //remove
    Authors.remove('Shakespeare');
-   print(Authors);
+   print("$Authors");
   //contains
    Authors.contains('Dale Carnegie');
-   print(Authors);
+   print("$Authors");
   // length
-   print(Authors.length);
+   print("$Authors.length");
   // is empty   
    print('Is empty? ${Authors.isEmpty}');
   // is not empty
   print('Is not empty? ${Authors.isNotEmpty}');
-}
+
    
 
 
