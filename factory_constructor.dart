@@ -8,7 +8,8 @@
   {
     if (booktype== "informational") 
     { 
-      return Books._("informational");
+      return Books._("informational");     
+
     } else if (booktype== "square")
      {
       return Books._("funny");

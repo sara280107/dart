@@ -1,6 +1,6 @@
- import 'dart:developer';
 
-main()
+
+ void main()
  {
   DateTime now = DateTime.now();
   print('${now.hour}');
@@ -23,7 +23,7 @@ main()
   }
   else 
   {
-    print("night: dark mode")
+    print("night: dark mode");
   }
 
   }
